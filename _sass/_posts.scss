@@ -16,6 +16,8 @@
 .page-title,
 .post-title {
   color: #2b6cc2; /* Esto cambiará el color del título del post */
+  font-size: 2rem; /* Aumenta el tamaño del título. Ajusta el valor según tus preferencias. */
+}
 }
 .page-title,
 .post-title {
@@ -64,4 +66,7 @@
       color: var(--gray-600);
     }
   }
+}
+.post-title {
+  font-family: 'Playfair Display', serif;
 }

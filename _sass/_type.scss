@@ -15,8 +15,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.25;
-  color: #333; /* #2b6cc2 Cambia este valor por el color que desees */;
-  font-family: 'Playfair Display', serif; /* Agrega la nueva fuente */
+  color: var(--heading-color);/* #2b6cc2 Cambia este valor por el color que desees */;
+  font-family: var(--body-font); /* Agrega la nueva fuente */
 }
 
 p {
