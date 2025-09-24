@@ -71,12 +71,12 @@ mark {
 /* --- Estilos personalizados --- */
 
 /* Cambia el ancho del contenedor principal para que el texto sea más estrecho */
-.container {
+container {
   max-width: 600px;
 }
 
 /* Cambia el color y el tamaño de la letra de tus posts */
-.post-content {
+post-content {
   font-size: 1.1em; /* Ajusta el tamaño de la letra. Experimenta con valores como 1.05em o 1.2em. */
   color: #2c3e50; /* Un color gris oscuro para mejorar la legibilidad. Puedes usar un código hexadecimal. */
 }
