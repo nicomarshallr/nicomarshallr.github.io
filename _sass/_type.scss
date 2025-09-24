@@ -8,13 +8,15 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: var(--heading-color);
 }
-
+h1 {
+  font-size: 1.75rem; /* Este valor achica el título. Puedes ajustarlo. */
+}
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.25;
   color: #2b6cc2; /* Cambia este valor por el color que desees */;
-  font-family: Georgia, serif; /* Para que los títulos también tengan esta fuente */
+  font-family: var(--body-font);
 }
 
 p {

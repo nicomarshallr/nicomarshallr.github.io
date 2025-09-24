@@ -8,7 +8,7 @@
 
 body {
   margin: 0;
-  font-family: Georgia, serif; /* Cambia a una fuente serif. 'Georgia' es una opción segura. */
+  font-family: var(--body-font);
   font-size: 1rem; /* Puedes ajustar el tamaño base del texto aquí */
   line-height: var(--body-line-height);
   color: #333; /* Cambia el color del texto. Usa un código más oscuro. */
