@@ -8,14 +8,14 @@
   margin-bottom: 4em;
 
   li + li {
-    margin-top: .25rem;
+    margin-top: 1rem;
   }
 }
 
 // Blog post or page title
 .page-title,
 .post-title {
-  color: var(--heading-color);
+  color: #2b6cc2; /* Esto cambiará el color del título del post */
 }
 .page-title,
 .post-title {
@@ -34,7 +34,7 @@
 // Meta data line below post title
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: -.1rem;
   margin-bottom: var(--spacer);
   color: var(--gray-600);
 }
