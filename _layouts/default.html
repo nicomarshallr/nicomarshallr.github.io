@@ -13,9 +13,38 @@
         </h3>
       </header>
 
-      <main>
-        {{ content }}
-      </main>
+
+
+      <div style="display: flex; gap: 40px; margin-top: 20px;"> 
+        
+        <aside style="flex: 0 0 250px; padding-right: 20px;"> 
+            
+            <div style="margin-bottom: 30px;">
+                <a href="URL_DE_TU_PAGINA_DE_ARCHIVOS" style="display: block; padding: 12px 20px; background-color: #007BFF; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+                    Ver todos los archivos
+                </a>
+            </div>
+
+            <div style="font-family: Arial, sans-serif; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+                <h3 style="margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">Contacto</h3>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="margin-bottom: 10px;">
+                        <strong>Email:</strong> <a href="nmarshallr@gmail.com">tuemail@dominio.com</a>
+                    </li>
+                    <li>
+                        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nicol%C3%A1s-marshall/" target="_blank">Mi perfil de LinkedIn</a>
+                    </li>
+                </ul>
+            </div>
+            
+        </aside>
+
+        <main style="flex: 1;">
+          {{ content }}
+        </main>
+        
+      </div>
+      ```
 
       <footer class="footer">
         <small>
