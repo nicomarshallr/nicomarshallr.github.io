@@ -1,3 +1,9 @@
+---
+layout: post
+title: La ley de permisos for dummies
+permalink: /La-ley-de-permisos-for-dummies/  # <-- ¡Añade esta línea!
+---
+
 Hoy se promulgó la Ley Marco de Permisos Sectoriales, una ley que agilizará los procesos de inversión en nuestro país.
 
 Pocos meses después de asumir como jefe de división en el Ministerio de Economía, el ministro Nicolás Grau me pidió que, junto a mi equipo, buscáramos una forma de mejorar sustantivamente los procesos para invertir en Chile.
