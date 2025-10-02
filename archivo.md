@@ -8,7 +8,7 @@ permalink: /archivo/
     <h1 class="page-title">{{ page.title }}</h1>
 </div>
 
-<p>Navega por todas las publicaciones por mes y año.</p>
+
 
 {% assign postsPorMesAno = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for mesAno in postsPorMesAno %}
