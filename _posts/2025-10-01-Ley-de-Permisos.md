@@ -1,8 +1,3 @@
----
-layout: post
-title: La ley de permisos for dummies
-permalink: /La-ley-de-permisos-for-dummies/  # <-- ¡Añade esta línea!
----
 
 Hoy se promulgó la Ley Marco de Permisos Sectoriales, una ley que agilizará los procesos de inversión en nuestro país.
 
