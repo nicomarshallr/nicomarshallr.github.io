@@ -23,9 +23,9 @@ tres grandes problemas: lograr un desarrollo de la ingeniería, conseguir
 el financiamiento y, por último, obtener la aprobación de los permisos.
 
 En los últimos años, estas variables han tenido un comportamiento
-dispar. Los desarrollos de ingeniería son más eficientes y el
+dispar. Los desarrollos de ingeniería se han vuelto más eficientes y el
 financiamiento se ha mantenido activo (salvo post pandemia). La traba
-principal ha sido la tramitación de permisos. Por esta razón, proyectos
+principal en los últimos años ha sido la tramitación de permisos. Por esta razón, proyectos
 que tienen su ingeniería lista y el acceso a financiamiento no pueden
 concretar su inversión, es decir, no se ejecutan.
 
@@ -43,15 +43,16 @@ Según el Centro de Estudios Públicos (CEP), en
 Chile, esta ineficiencia producto de mala asignación de capital y
 subinversión puede significar US\$ 22 mil millones en un año, y
 conseguir un sistema fluido de inversiones podría significar un aumento
-del 0,7% en la tasa de crecimiento anual del PIB por los próximos 10
+de 0,7% en la tasa de crecimiento anual del PIB por los próximos 10
 años.
 
 Buscando resolver este problema, diseñamos una ley que contiene un
 conjunto de medidas que hacen más ágil la entrega de permisos. El
 objetivo es que la decisión de inversión, ya sea pública o privada,
 pueda materializarse lo más rápido posible sin descuidar los estándares
-de protección que la sociedad ha definido. Lo primero para entrar en
-esta conversación es entender qué son los permisos y por qué se han
+de protección que la sociedad ha definido.
+
+Lo primero para entrar en esta conversación es entender qué son los permisos y por qué se han
 vuelto un problema.
 
 **¿Qué son los permisos?**
@@ -63,8 +64,9 @@ grandes grupos: los ambientales y los sectoriales.
 
 Los permisos ambientales son aquellos que se obtienen a través de las
 evaluaciones que realiza el Servicio de Evaluación Ambiental (SEA)
-cuando un proyecto tiene impactos significativos. Los permisos
-sectoriales, en cambio, agrupan a todos los permisos que están fuera de
+cuando un proyecto tiene impactos significativos.
+
+Los permisos sectoriales, en cambio, agrupan a todos los permisos que están fuera de
 la evaluación ambiental. Son un amplio conjunto de más de 400 trámites
 (concesiones, contratos y pronunciamientos) que deben ser entregados por
 40 organismos diferentes (a nivel central, regional, provincial y
@@ -72,14 +74,16 @@ municipal).
 
 Nuestro trabajo se centró en los permisos sectoriales, aunque el
 gobierno también ha impulsado cambios en la forma de obtener las
-autorizaciones ambientales. El foco en los permisos sectoriales fue
+autorizaciones ambientales.
+
+El foco en los permisos sectoriales fue
 estratégico y se basó en dos puntos claves. Primero, porque la evidencia
 de la Comisión Nacional de Evaluación y Productividad (CNEP) indica que
 estos trámites son los que históricamente han demorado más la
-materialización de los grandes proyectos de inversión.
+materialización de los grandes proyectos de inversión.Específicamente,los permisos sectoriales son responsables de casi dos tercios del total
+del tiempo de tramitación.
 
-Específicamente,los permisos sectoriales son responsables de casi dos tercios del total
-del tiempo de tramitación. Segundo, porque la mayoría de los proyectos
+Segundo, porque la mayoría de los proyectos
 medianos y pequeños no generan impactos ambientales significativos y,
 por lo tanto, los permisos sectoriales constituyen la totalidad de su
 proceso de autorización.
@@ -112,7 +116,7 @@ hastío y cansancio de muchos emprendedores, que ven en la obtención de
 autorizaciones una carga excesiva que dificulta materializar sus ideas y
 proyectos.
 
-Por eso, nos propusimos resolver esta tensión. Buscamos formas en que
+En nuestro trabajo nos propusimos resolver esta tensión. Buscamos formas en que
 los permisos no sean un freno, sino un mecanismo eficaz para resguardar
 riesgos mediante tramitaciones ágiles y expeditas.
 
@@ -131,13 +135,13 @@ El actual sistema de permisos sectoriales presenta al menos tres
 problemas críticos. Primero, los plazos son excesivos y no se respetan,
 demorando por lo general dos o tres veces el tiempo límite legal, e
 incluso seis o siete veces para las autorizaciones más problemáticas.
-Segundo, existe una alta incertidumbre, ya que los desarrolladores de
-proyectos no pueden predecir qué ocurrirá.
 
-La presencia constante de requisitos no reglados, la falta de
+Segundo, existe una alta incertidumbre, ya que los desarrolladores de
+proyectos no pueden predecir qué ocurrirá. La presencia constante de requisitos no reglados, la falta de
 información y culturas institucionales inadecuadas hacen imposible
-predecir los tiempos, costos y resultados del proceso. Tercero, los
-organismos públicos están sobrepasados, obligados a responder a las
+predecir los tiempos, costos y resultados del proceso.
+
+Tercero, los organismos públicos están sobrepasados, obligados a responder a las
 solicitudes sin contar necesariamente con el conocimiento, las
 capacidades institucionales, la infraestructura o el equipamiento para
 realizar su trabajo.
@@ -152,6 +156,7 @@ permisos.
 En segundo lugar, la inclusión desordenada de nuevos permisos y
 regulaciones sin orden ni estructura, sin reflexionar sobre la capacidad
 institucional, la duplicidad o los recursos que implican.
+
 Finalmente, la falta de ambición y persistencia en las soluciones. La
 CNEP ha registrado que, por más de dos décadas, se han propuesto
 soluciones que han sido, por lo general, iniciativas tímidas, marginales
@@ -194,12 +199,15 @@ las razones fundamentales de su inclusión.
   permitirán que cerca del 25% de los permisos puedan ser reemplazados
   por una declaración jurada en casos de bajo riesgo. En la práctica,
   los titulares deben declarar que cumplen con el estándar, adjuntar
-  los documentos que lo acrediten y con ello podrán avanzar. Pasaremos
-  de una revisión previa a un esquema de fiscalización post inversión.
+  los documentos que lo acrediten y con ello podrán avanzar.
+
+  Pasaremos de una revisión previa a un esquema de fiscalización post inversión.
   Esto significa un cambio en el funcionamiento tradicional del Estado
   en estas materias, que deposita mucha confianza en los
   desarrolladores. Por esto, creamos una tipología penal asociada para
-  quien defraude el sistema. Para la mayoría de los desarrolladores,
+  quien defraude el sistema.
+
+  Para la mayoría de los desarrolladores,
   muchos permisos pasarán a demorar cero días, reduciendo sus tiempos
   finales en gran magnitud. Esto también ayudará al Estado a
   eficientar su asignación de recursos, ya que los evaluadores de
@@ -232,30 +240,28 @@ las razones fundamentales de su inclusión.
   casi la mitad de los permisos no tienen un plazo específico, y las
   solicitudes mal hechas atoran los servicios públicos.
 
-  El silencio administrativo casi no funciona porque no está claro a qué aplica, y
-  el solicitante debe exigirlo al mismo servicio que se demoró. El
-  impacto de estas medidas de estandarización será clave en el aumento
+  El impacto de estas medidas de estandarización será clave en el aumento
   de la capacidad del sistema y significará una presión constante de
   respuesta para los funcionarios públicos.
 
   **5.Proceso de Mejora Regulatoria.** La ley contempla un proceso
   obligatorio donde cada tres años todas las normas legales y
   reglamentarias deben ser analizadas y mejoradas. No es complejo
-  intuir que los permisos seguirán creándose y cambiando su
-  pertinencia con los cambios tecnológicos y las nuevas necesidades.
+  intuir que los permisos seguirán creándose junto a las mejoras tecnológicas y las nuevas necesidades.
   Por ello, dotaremos al nuevo sistema de un proceso de reflexión y
-  mejora continua. Así, el sistema se asegurará de realizar mejoras
+  mejora continua. Así, el Estado se asegurará de realizar mejoras
   constantes y no tendrá que esperar un nuevo gran proyecto de
   agilización en 15 años más.
 
   **6.Sanciones e incentivos.** La ley establece nuevas sanciones
   económicas a jefes de servicio que no cumplan con los tiempos
   normativos injustificadamente y alineará los actuales incentivos de
-  funcionarios públicos al cumplimiento de los tiempos. En la
-  actualidad, muchas de las autorizaciones existentes no tienen
+  funcionarios públicos al cumplimiento de los tiempos.
+
+  En la actualidad, muchas de las autorizaciones existentes no tienen
   asignadas metas de cumplimiento ni mediciones periódicas. Esto
   lesiona gravemente la señalización de la importancia de la entrega
-  de permisos en cada organismo público. Hemos cuidado el diseño de
+  de permisos en cada organismo. Hemos cuidado el diseño de
   estos incentivos considerando que una penalización podría llevar a
   aprobar proyectos en el tiempo pero sin los estándares, o a rechazar
   solicitudes en los plazos pero de forma injustificada.
@@ -293,11 +299,11 @@ Adicionalmente, la eliminación de permisos relevantes no garantiza
 reducir los tiempos, pues la poca claridad de los estándares de
 protección gatilla conflictos sociales que paralizan obras.
 
-También está lo que se ha definido como "Permisología Base Cero" o
-"Derogar y Reemplazar", que propone identificar la normativa
+También se han levantado propuestas como las llamadas "Permisología Base Cero" o
+"Derogar y Reemplazar", que proponen identificar la normativa
 indispensable y eliminar todo lo restante. Esta estrategia enfrenta dos
 grandes problemas: por un lado, la falta de consenso hace difícil
-acordar qué debe ser derogado; por otro, subestima las complicaciones
+acordar qué debe ser derogado y las cuáles serían las normas de reemplazo; por otro, subestima las complicaciones
 legislativas, ya que modificar o derogar leyes clave (como los códigos
 de Aguas, Sanitario o Minero) requiere mayorías parlamentarias y
 trámites que se extienden por años.
@@ -310,13 +316,13 @@ gestión debe ser combinada con otras medidas que mejoren las capacidades
 estructurales del sistema completo, lo cual sí implica modificaciones
 legales y reglamentarias.
 
-Una última estrategia es el *Fast Track* (Vía Rápida) para Proyectos
-Estratégicos. Muy popular en EE. UU. y Alemania, garantiza una
-tramitación acelerada solo a un pequeño conjunto de proyectos clave. Su
+Una última estrategia es el *Fast Track* (Vía Rápida) para proyectos
+estratégicos. Muy popular en EE. UU. y Alemania, garantiza una
+tramitación acelerada solo a un pequeño conjunto de proyectos "clave". Su
 foco es acotado y no resuelve los retrasos generalizados que afectan a
 la mayoría de las inversiones. En nuestro trabajo, consideramos el *Fast
-Track* como una herramienta complementaria necesaria para priorizar
-algunas inversiones, pero sin descuidar la mejora del sistema general,
+Track* como una herramienta complementaria (necesaria para priorizar
+algunas inversiones), pero sin descuidar la mejora del sistema general,
 que es el verdadero motor de la inversión y concentra los impactos en la
 ciudadanía.
 
