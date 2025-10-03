@@ -330,15 +330,7 @@ eficiencia general del gasto público.
 
 **Notas finales**
 
-Con estas notas, mi intención es detallar las complejidades de la
-entrega de permisos y describir (para no expertos) las soluciones que
-hemos implementado. Busco ir más allá del debate corto que se puede
-encontrar en los medios y aportar con los elementos necesarios para
-profundizar en la comprensión de esta política pública.\
-Para quienes trabajamos en esto, lo más relevante es que la
-implementación sea muy rigurosa y constante, porque la tramitación de
-permisos siempre genera resistencias e inercias.\
-Si logramos que esta ley sea bien implementada, habremos transformado el
-funcionamiento del Estado chileno, facilitando inversiones más ágiles,
-crecimiento económico más robusto y mejoras significativas en el
-bienestar de las personas.
+Con estas notas, mi intención fue detallar las complejidades de la entrega de permisos y describir (para no expertos) las soluciones que hemos implementado. Busco ir más allá del debate corto que se puede encontrar en los medios y aportar con los elementos necesarios para profundizar en la comprensión de esta política pública.
+La excesiva demora en la entrega de autorizaciones se ha convertido en uno de los obstáculos para la materialización de proyectos en Chile. Por ello, hemos trabajado intensamente en una solución ambiciosa que busca reducir drásticamente los tiempos de tramitación y aumentar la certeza y transparencia del sistema.
+El principal efecto de esta reforma se sentirá en la mayor agilidad de la tramitación para todo tipo de proyectos (privados y públicos, grandes o pequeños). Este cambio generará impactos sustantivos que impulsarán directamente la creación de empleo, el crecimiento económico de nuestro país y una mejor provisión de bienes públicos.
+
