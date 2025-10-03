@@ -318,10 +318,12 @@ impactará directamente en la economía a dos niveles. Primero, se
 proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
 10 años, derivado de la materialización de nuevos proyectos de
 inversión.\
+
 Segundo, se espera un incremento en la recaudación fiscal producto del
 adelantamiento de flujos futuros de proyectos en carpeta, equivalente a
 un 0,27% del PIB de 2023, y un 0,32% del PIB por la atracción de nuevas
 inversiones con una mayor rentabilidad esperada.\
+
 A estos impactos directos en la capacidad de crecimiento y la
 recaudación fiscal, es necesario sumar los efectos indirectos, como una
 reducción en las barreras para la formalización, la disminución de
@@ -331,6 +333,8 @@ eficiencia general del gasto público.
 **Notas finales**
 
 Con estas notas, mi intención fue detallar las complejidades de la entrega de permisos y describir (para no expertos) las soluciones que hemos implementado. Busco ir más allá del debate corto que se puede encontrar en los medios y aportar con los elementos necesarios para profundizar en la comprensión de esta política pública.
+
 La excesiva demora en la entrega de autorizaciones se ha convertido en uno de los obstáculos para la materialización de proyectos en Chile. Por ello, hemos trabajado intensamente en una solución ambiciosa que busca reducir drásticamente los tiempos de tramitación y aumentar la certeza y transparencia del sistema.
+
 El principal efecto de esta reforma se sentirá en la mayor agilidad de la tramitación para todo tipo de proyectos (privados y públicos, grandes o pequeños). Este cambio generará impactos sustantivos que impulsarán directamente la creación de empleo, el crecimiento económico de nuestro país y una mejor provisión de bienes públicos.
 
