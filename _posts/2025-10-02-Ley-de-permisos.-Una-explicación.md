@@ -20,14 +20,14 @@ proyectos y entender cómo se puede acelerar la inversión en Chile. Tras
 cientos de conversaciones, resumiría que, para que un proyecto público o
 privado pase de ser una idea a su real materialización, hay que resolver
 tres grandes problemas: lograr un desarrollo de la ingeniería, conseguir
-el financiamiento y, por último, obtener la aprobación de los permisos.\
+el financiamiento y, por último, obtener la aprobación de los permisos.
 
 En los últimos años, estas variables han tenido un comportamiento
 dispar. Los desarrollos de ingeniería son más eficientes y el
 financiamiento se ha mantenido activo (salvo post pandemia). La traba
 principal ha sido la tramitación de permisos. Por esta razón, proyectos
 que tienen su ingeniería lista y el acceso a financiamiento no pueden
-concretar su inversión, es decir, no se ejecutan.\
+concretar su inversión, es decir, no se ejecutan.
 
 Para un desarrollador privado, esto significa demoras, sobrecostos o
 incluso el desinterés en comenzar la construcción de proyectos como
@@ -44,7 +44,7 @@ Chile, esta ineficiencia producto de mala asignación de capital y
 subinversión puede significar US\$ 22 mil millones en un año, y
 conseguir un sistema fluido de inversiones podría significar un aumento
 del 0,7% en la tasa de crecimiento anual del PIB por los próximos 10
-años.\
+años.
 
 Buscando resolver este problema, diseñamos una ley que contiene un
 conjunto de medidas que hacen más ágil la entrega de permisos. El
@@ -59,7 +59,7 @@ vuelto un problema.
 En la opinión pública se le ha llamado "permisos" a todos los trámites
 que deben superarse y a las regulaciones que deben cumplirse para
 desarrollar cualquier actividad productiva. Estos se separan en dos
-grandes grupos: los ambientales y los sectoriales.\
+grandes grupos: los ambientales y los sectoriales.
 
 Los permisos ambientales son aquellos que se obtienen a través de las
 evaluaciones que realiza el Servicio de Evaluación Ambiental (SEA)
@@ -68,7 +68,7 @@ sectoriales, en cambio, agrupan a todos los permisos que están fuera de
 la evaluación ambiental. Son un amplio conjunto de más de 400 trámites
 (concesiones, contratos y pronunciamientos) que deben ser entregados por
 40 organismos diferentes (a nivel central, regional, provincial y
-municipal).\
+municipal).
 
 Nuestro trabajo se centró en los permisos sectoriales, aunque el
 gobierno también ha impulsado cambios en la forma de obtener las
@@ -82,13 +82,13 @@ Específicamente,los permisos sectoriales son responsables de casi dos tercios d
 del tiempo de tramitación. Segundo, porque la mayoría de los proyectos
 medianos y pequeños no generan impactos ambientales significativos y,
 por lo tanto, los permisos sectoriales constituyen la totalidad de su
-proceso de autorización.\
+proceso de autorización.
 
 Dentro de los 40 servicios que otorgan estas autorizaciones, los que
 acumulan la mayor intensidad de uso son las Secretarías Regionales
 Ministeriales de Salud (SEREMI de Salud), el Servicio Nacional de
 Geología y Minería (SERNAGEOMIN), CONAF, la Dirección General de Aguas
-(DGA) y las Direcciones de Obras Municipales (DOM).\
+(DGA) y las Direcciones de Obras Municipales (DOM).
 
 Estos permisos son muy diversos. Entre otros ejemplos está el sencillo
 permiso de rotura y reposición de pavimentos (necesario para hacer una
@@ -96,20 +96,21 @@ conexión a servicios o accesos a una vivienda), las autorizaciones
 sanitarias necesarias para producir o envasar alimentos, o una concesión
 onerosa para solicitar el uso de un terreno fiscal, algo fundamental
 para proyectos como los de energía en el norte de nuestro país.
+
 Proyectos pequeños como un jardín infantil o un hostal deben obtener
 decenas de permisos, mientras que los grandes proyectos de inversión
-pueden tener que solicitar literalmente miles de ellos.\
+pueden tener que solicitar literalmente miles de ellos.
 
 La tesis que hemos intentado defender durante estos años es que los
 permisos son importantes. Ellos resguardan un interés que la sociedad ha
 definido como fundamental. Entre otros, los permisos protegen el medio
 ambiente, la salud de las personas, las formas de gestionar nuestros
-residuos o los estándares con los que construimos una obra.\
+residuos o los estándares con los que construimos una obra.
 
 De manera complementaria, hemos integrado el generalizado sentimiento de
 hastío y cansancio de muchos emprendedores, que ven en la obtención de
 autorizaciones una carga excesiva que dificulta materializar sus ideas y
-proyectos.\
+proyectos.
 
 Por eso, nos propusimos resolver esta tensión. Buscamos formas en que
 los permisos no sean un freno, sino un mecanismo eficaz para resguardar
@@ -124,14 +125,14 @@ el empleo, y salvaguardar aspectos esenciales como la salud, el medio
 ambiente y la seguridad. Esta tensión se materializa en nuestra
 incapacidad para construir un sistema de permisos que logre conciliar
 ambos factores, de modo que resguarde los riesgos y, a la vez, facilite
-la inversión.\
+la inversión.
 
 El actual sistema de permisos sectoriales presenta al menos tres
 problemas críticos. Primero, los plazos son excesivos y no se respetan,
 demorando por lo general dos o tres veces el tiempo límite legal, e
 incluso seis o siete veces para las autorizaciones más problemáticas.
 Segundo, existe una alta incertidumbre, ya que los desarrolladores de
-proyectos no pueden predecir qué ocurrirá.\
+proyectos no pueden predecir qué ocurrirá.
 
 La presencia constante de requisitos no reglados, la falta de
 información y culturas institucionales inadecuadas hacen imposible
@@ -139,21 +140,22 @@ predecir los tiempos, costos y resultados del proceso. Tercero, los
 organismos públicos están sobrepasados, obligados a responder a las
 solicitudes sin contar necesariamente con el conocimiento, las
 capacidades institucionales, la infraestructura o el equipamiento para
-realizar su trabajo.\
+realizar su trabajo.
 
 Estos problemas son solo síntomas. Las causas de esta deficiencia
-radican, en mi opinión, en los siguientes aspectos:\
+radican, en mi opinión, en los siguientes aspectos:
+
 En primer lugar, la falta de información centralizada para diagnosticar
 y evaluar constantemente el desempeño de cada organismo en la entrega de
-permisos.\
+permisos.
 
 En segundo lugar, la inclusión desordenada de nuevos permisos y
 regulaciones sin orden ni estructura, sin reflexionar sobre la capacidad
-institucional, la duplicidad o los recursos que implican.\
+institucional, la duplicidad o los recursos que implican.
 Finalmente, la falta de ambición y persistencia en las soluciones. La
 CNEP ha registrado que, por más de dos décadas, se han propuesto
 soluciones que han sido, por lo general, iniciativas tímidas, marginales
-y ejecutadas parcialmente.\
+y ejecutadas parcialmente.
 
 Por ejemplo, el informe de la CNEP de 2019 identificó más de doscientas
 medidas anunciadas desde el año 2000 en adelante, pero menos de la mitad
@@ -171,7 +173,8 @@ conjunto. Necesitamos crear incentivos a distintos niveles, entregar
 herramientas efectivas y generar las condiciones para una solución
 sostenible de largo plazo. Por ello, nuestro diseño consideró dotar al
 Estado y a quienes intervienen en la entrega de permisos de un conjunto
-de herramientas necesarias para operar con eficiencia.\
+de herramientas necesarias para operar con eficiencia.
+
 A continuación, detallaré las principales medidas que implementaremos y
 las razones fundamentales de su inclusión.
 
@@ -211,7 +214,7 @@ las razones fundamentales de su inclusión.
   interesados puedan monitorear el desempeño y mejoras del sistema.
   Finalmente, la plataforma será una herramienta valiosa para la
   gestión pública, permitiendo identificar cuellos de botella en
-  tiempo real.\
+  tiempo real.
 
   Yo sé que herramientas de este tipo suenan muy lejanas para el
   Estado chileno, pero actualmente [acá](https://super.gob.cl/) pueden
@@ -273,11 +276,11 @@ permisos. Ya sea por dificultades productivas puntuales, por necesidades
 energéticas o simplemente para volverse más atractivos frente a la
 inversión extranjera, en distintos lugares del mundo están intentando
 responder a la misma pregunta que motivó esta nueva ley: ¿Cómo
-materializar más rápido las inversiones?\
+materializar más rápido las inversiones?
 
 El diseño que hemos adoptado es una de las posibles respuestas, pero la
 discusión mundial distingue rutas disímiles que analizamos y descartamos
-para el caso chileno.\
+para el caso chileno.
 
 Primero, está la aproximación de la desregulación y eliminación de
 permisos, popularizada por el caso argentino de Javier Milei, quien
@@ -288,7 +291,7 @@ espacio para analizar duplicidades y pertinencias de permisos, en Chile
 requerimos ajustes más finos que la simple eliminación masiva.
 Adicionalmente, la eliminación de permisos relevantes no garantiza
 reducir los tiempos, pues la poca claridad de los estándares de
-protección gatilla conflictos sociales que paralizan obras.\
+protección gatilla conflictos sociales que paralizan obras.
 
 También está lo que se ha definido como "Permisología Base Cero" o
 "Derogar y Reemplazar", que propone identificar la normativa
@@ -297,7 +300,7 @@ grandes problemas: por un lado, la falta de consenso hace difícil
 acordar qué debe ser derogado; por otro, subestima las complicaciones
 legislativas, ya que modificar o derogar leyes clave (como los códigos
 de Aguas, Sanitario o Minero) requiere mayorías parlamentarias y
-trámites que se extienden por años.\
+trámites que se extienden por años.
 
 Una tercera estrategia es la "mejora de gestión", que busca abandonar la
 vía legislativa por su lentitud y concentrarse en reforzar equipos y
@@ -305,7 +308,7 @@ procesos. Aunque nuestro equipo ha puesto recursos en esto, la
 estrategia tiene un techo de mejora limitado. Para un alto impacto, la
 gestión debe ser combinada con otras medidas que mejoren las capacidades
 estructurales del sistema completo, lo cual sí implica modificaciones
-legales y reglamentarias.\
+legales y reglamentarias.
 
 Una última estrategia es el *Fast Track* (Vía Rápida) para Proyectos
 Estratégicos. Muy popular en EE. UU. y Alemania, garantiza una
@@ -315,7 +318,7 @@ la mayoría de las inversiones. En nuestro trabajo, consideramos el *Fast
 Track* como una herramienta complementaria necesaria para priorizar
 algunas inversiones, pero sin descuidar la mejora del sistema general,
 que es el verdadero motor de la inversión y concentra los impactos en la
-ciudadanía.\
+ciudadanía.
 
 Durante estos años de trabajo, hemos analizado iniciativas globales y
 colaborado con organizaciones internacionales para perfeccionar nuestros
@@ -332,25 +335,25 @@ grandes proyectos de inversión en al menos un 30%, y en un notable 70%
 para los proyectos medianos y pequeños. Estas estimaciones se consideran
 conservadoras, ya que han sido construidas únicamente sobre los efectos
 directos de medidas clave como el silencio administrativo y la
-obligatoriedad de declaraciones juradas.\
+obligatoriedad de declaraciones juradas.
 
 Para estos cálculos, no se han considerado otros elementos que, según la
 literatura especializada en el tema, tienen el potencial de generar
 reducciones aún mayores. Entre estos elementos, destacan la posibilidad
 de tramitación paralela y el efecto positivo de la publicidad de la
-información en la plataforma digital.\
+información en la plataforma digital.
 
 Según el informe del Comité de Expertos sobre Espacio Fiscal y
 Crecimiento Tendencial, esta agilización en los plazos de tramitación
 impactará directamente en la economía a dos niveles. Primero, se
 proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
 10 años, derivado de la materialización de nuevos proyectos de
-inversión.\
+inversión.
 
 Segundo, se espera un incremento en la recaudación fiscal producto del
 adelantamiento de flujos futuros de proyectos en carpeta, equivalente a
 un 0,27% del PIB de 2023, y un 0,32% del PIB por la atracción de nuevas
-inversiones con una mayor rentabilidad esperada.\
+inversiones con una mayor rentabilidad esperada.
 
 A estos impactos directos en la capacidad de crecimiento y la
 recaudación fiscal, es necesario sumar los efectos indirectos, como una
