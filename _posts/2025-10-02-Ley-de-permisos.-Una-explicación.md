@@ -3,7 +3,7 @@ Economía en marzo de 2022, el ministro Nicolás Grau me pidió que, junto
 a mi equipo, buscáramos una forma de mejorar sustantivamente los
 procesos para invertir en Chile.
 
-Hoy se promulgó la Ley Marco de Autorizaciones Sectoriales, una política
+Esta semana se promulgó la Ley Marco de Autorizaciones Sectoriales, una política
 pública que agilizará los procesos de inversión en nuestro país.
 Reducirá los tiempos entre un 30 y un 70%, y entregará más certeza y
 transparencia.
