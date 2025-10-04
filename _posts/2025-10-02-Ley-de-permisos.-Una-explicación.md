@@ -303,13 +303,13 @@ También se han levantado propuestas como las llamadas "Permisología Base Cero"
 "Derogar y Reemplazar", que proponen identificar la normativa
 indispensable y eliminar todo lo restante. Esta estrategia enfrenta dos
 grandes problemas: por un lado, la falta de consenso hace difícil
-acordar qué debe ser derogado y las cuáles serían las normas de reemplazo; por otro, subestima las complicaciones
-legislativas, ya que modificar o derogar leyes clave (como los códigos
+acordar qué debe ser derogado y cuáles serían las normas de reemplazo; por otro, subestima las complicaciones
+legislativas, ya que modificar o derogar elementos de leyes clave (como los códigos
 de Aguas, Sanitario o Minero) requiere mayorías parlamentarias y
 trámites que se extienden por años.
 
 Una tercera estrategia es la "mejora de gestión", que busca abandonar la
-vía legislativa por su lentitud y concentrarse en reforzar equipos y
+vía legislativa por su lentitud y concentrarse en reforzar organismos y
 procesos. Aunque nuestro equipo ha puesto recursos en esto, la
 estrategia tiene un techo de mejora limitado. Para un alto impacto, la
 gestión debe ser combinada con otras medidas que mejoren las capacidades
@@ -340,8 +340,8 @@ La implementación de la ley reducirá los tiempos de tramitación de
 grandes proyectos de inversión en al menos un 30%, y en un notable 70%
 para los proyectos medianos y pequeños. Estas estimaciones se consideran
 conservadoras, ya que han sido construidas únicamente sobre los efectos
-directos de medidas clave como el silencio administrativo y la
-obligatoriedad de declaraciones juradas.
+directos de medidas clave como el silencio administrativo y las
+declaraciones juradas.
 
 Para estos cálculos, no se han considerado otros elementos que, según la
 literatura especializada en el tema, tienen el potencial de generar
@@ -351,12 +351,11 @@ información en la plataforma digital.
 
 Según el informe del Comité de Expertos sobre Espacio Fiscal y
 Crecimiento Tendencial, esta agilización en los plazos de tramitación
-impactará directamente en la economía a dos niveles. Primero, se
-proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
-10 años, derivado de la materialización de nuevos proyectos de
-inversión.
+impactará directamente en la economía a dos niveles. 
 
-Segundo, se espera un incremento en la recaudación fiscal producto del
+Primero, seproyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
+10 años, derivado de la materialización de nuevos proyectos de
+inversión. Segundo, se espera un incremento en la recaudación fiscal producto del
 adelantamiento de flujos futuros de proyectos en carpeta, equivalente a
 un 0,27% del PIB de 2023, y un 0,32% del PIB por la atracción de nuevas
 inversiones con una mayor rentabilidad esperada.
