@@ -5,8 +5,8 @@ procesos para invertir en Chile.
 
 Esta semana se promulgó la Ley Marco de Autorizaciones Sectoriales, una política
 pública que agilizará los procesos de inversión en nuestro país.
-Reducirá los tiempos entre un 30 y un 70%, y entregará más certeza y
-transparencia.
+Reducirá los tiempos en un 30% para grandes proyectos y 70% para los medianos y pequeños, entregará más certeza y
+transparencia al sistema.
 
 En estas notas pretendo describir la importancia de nuestro trabajo, los
 actuales problemas en la entrega de permisos, el diseño de la ley, las
@@ -275,7 +275,7 @@ reservado para realizar denuncias de prácticas inadecuadas en la
 tramitación de permisos, de tal manera que el Ministerio de Economía
 pueda estudiar cada caso.
 
-**Debate global: ¿de qué otra manera se puede resolver este problema?**
+**Debate global: ¿Qué está haciendo el resto del mundo?**
 
 Muchos países están buscando acelerar sus procesos de entrega de
 permisos. Ya sea por dificultades productivas puntuales, por necesidades
@@ -351,8 +351,7 @@ información en la plataforma digital.
 
 Según el informe del Comité de Expertos sobre Espacio Fiscal y
 Crecimiento Tendencial, esta agilización en los plazos de tramitación
-impactará directamente en la economía a dos niveles. Primero, se
-proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
+impactará directamente en la economía a dos niveles. Primero, se proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
 10 años, derivado de la materialización de nuevos proyectos de
 inversión.
 
@@ -373,5 +372,5 @@ Con estas notas, mi intención fue detallar las complejidades de la entrega de p
 
 La excesiva demora en la entrega de autorizaciones se ha convertido en uno de los obstáculos para la materialización de proyectos en Chile. Por ello, hemos trabajado intensamente en una solución ambiciosa que busca reducir drásticamente los tiempos de tramitación y aumentar la certeza y transparencia del sistema.
 
-El principal efecto de esta reforma se sentirá en la mayor agilidad de la tramitación para todo tipo de proyectos (privados y públicos, grandes o pequeños). Este cambio generará impactos sustantivos que impulsarán directamente la creación de empleo, el crecimiento económico de nuestro país y una mejor provisión de bienes públicos.
+El principal efecto de esta reforma se sentirá en la mayor agilidad de la tramitación para todo tipo de proyectos (privados y públicos, grandes o pequeños). Este cambio generará impactos sustantivos que impulsarán directamente la creación de empleo, el crecimiento económico de nuestro país y una más ágil provisión de bienes públicos.
 
