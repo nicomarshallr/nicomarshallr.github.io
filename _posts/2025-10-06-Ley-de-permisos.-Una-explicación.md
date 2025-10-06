@@ -5,8 +5,7 @@ procesos para invertir en Chile.
 
 Esta semana se promulgó la Ley Marco de Autorizaciones Sectoriales, una política
 pública que agilizará los procesos de inversión en nuestro país.
-Reducirá los tiempos entre un 30 y un 70%, y entregará más certeza y
-transparencia.
+Reducirá los tiempos en un 30% para los grandes proyectos de inversión y un 70% para los medianos y pequeños, y entregará más certeza y transparencia.
 
 En estas notas pretendo describir la importancia de nuestro trabajo, los
 actuales problemas en la entrega de permisos, el diseño de la ley, las
@@ -275,7 +274,7 @@ reservado para realizar denuncias de prácticas inadecuadas en la
 tramitación de permisos, de tal manera que el Ministerio de Economía
 pueda estudiar cada caso.
 
-**Debate global: ¿de qué otra manera se puede resolver este problema?**
+**Debate global: ¿En qué está el resto del mundo?**
 
 Muchos países están buscando acelerar sus procesos de entrega de
 permisos. Ya sea por dificultades productivas puntuales, por necesidades
@@ -353,7 +352,7 @@ Según el informe del Comité de Expertos sobre Espacio Fiscal y
 Crecimiento Tendencial, esta agilización en los plazos de tramitación
 impactará directamente en la economía a dos niveles. 
 
-Primero, seproyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
+Primero, se proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
 10 años, derivado de la materialización de nuevos proyectos de
 inversión. Segundo, se espera un incremento en la recaudación fiscal producto del
 adelantamiento de flujos futuros de proyectos en carpeta, equivalente a
@@ -368,7 +367,7 @@ eficiencia general del gasto público.
 
 **Notas finales**
 
-Con estas notas, mi intención fue detallar las complejidades de la entrega de permisos y describir (para no expertos) las soluciones que hemos implementado. Busco ir más allá del debate corto que se puede encontrar en los medios y aportar con los elementos necesarios para profundizar en la comprensión de esta política pública.
+Con estas notas, mi intención fue detallar las complejidades de la entrega de permisos y describir en simple las soluciones que hemos implementado. Busco ir más allá del debate corto que se puede encontrar en los medios y aportar con los elementos necesarios para profundizar en la comprensión de esta política pública.
 
 La excesiva demora en la entrega de autorizaciones se ha convertido en uno de los obstáculos para la materialización de proyectos en Chile. Por ello, hemos trabajado intensamente en una solución ambiciosa que busca reducir drásticamente los tiempos de tramitación y aumentar la certeza y transparencia del sistema.
 
