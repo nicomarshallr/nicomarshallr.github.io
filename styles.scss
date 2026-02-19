@@ -45,3 +45,20 @@
     margin-left: var(--spacer);
   }
 }
+/* Modo claro por defecto */
+body {
+  background-color: #ffffff;
+  color: #111111;
+}
+
+/* Adaptación automática a modo oscuro del usuario */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e6e6e6;
+  }
+
+  a {
+    color: #7aa2f7;
+  }
+}
