@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Ley de permisos. Una explicación"
+date: 2025-10-06
+---
 Pocos meses después de asumir como jefe de división en el Ministerio de
 Economía en marzo de 2022, el ministro Nicolás Grau me pidió que, junto
 a mi equipo, buscáramos una forma de mejorar sustantivamente los
@@ -5,12 +10,8 @@ procesos para invertir en Chile.
 
 Esta semana se promulgó la Ley Marco de Autorizaciones Sectoriales, una política
 pública que agilizará los procesos de inversión en nuestro país.
-<<<<<<< HEAD:_posts/2025-10-02-Ley-de-permisos.-Una-explicación.md
 Reducirá los tiempos en un 30% para grandes proyectos y 70% para los medianos y pequeños, entregará más certeza y
 transparencia al sistema.
-=======
-Reducirá los tiempos en un 30% para los grandes proyectos de inversión y un 70% para los medianos y pequeños, y entregará más certeza y transparencia.
->>>>>>> 90fa82a403799c517834faacdc81891acd8bb186:_posts/2025-10-06-Ley-de-permisos.-Una-explicación.md
 
 En estas notas pretendo describir la importancia de nuestro trabajo, los
 actuales problemas en la entrega de permisos, el diseño de la ley, las
@@ -279,11 +280,7 @@ reservado para realizar denuncias de prácticas inadecuadas en la
 tramitación de permisos, de tal manera que el Ministerio de Economía
 pueda estudiar cada caso.
 
-<<<<<<< HEAD:_posts/2025-10-02-Ley-de-permisos.-Una-explicación.md
-**Debate global: ¿Qué está haciendo el resto del mundo?**
-=======
 **Debate global: ¿En qué está el resto del mundo?**
->>>>>>> 90fa82a403799c517834faacdc81891acd8bb186:_posts/2025-10-06-Ley-de-permisos.-Una-explicación.md
 
 Muchos países están buscando acelerar sus procesos de entrega de
 permisos. Ya sea por dificultades productivas puntuales, por necesidades
@@ -359,13 +356,7 @@ información en la plataforma digital.
 
 Según el informe del Comité de Expertos sobre Espacio Fiscal y
 Crecimiento Tendencial, esta agilización en los plazos de tramitación
-<<<<<<< HEAD:_posts/2025-10-02-Ley-de-permisos.-Una-explicación.md
-impactará directamente en la economía a dos niveles. Primero, se proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
-10 años, derivado de la materialización de nuevos proyectos de
-inversión.
-=======
-impactará directamente en la economía a dos niveles. 
->>>>>>> 90fa82a403799c517834faacdc81891acd8bb186:_posts/2025-10-06-Ley-de-permisos.-Una-explicación.md
+impactará directamente en la economía a dos niveles.
 
 Primero, se proyecta un aumento directo del Producto Interno Bruto (PIB) de 2,4% en
 10 años, derivado de la materialización de nuevos proyectos de
