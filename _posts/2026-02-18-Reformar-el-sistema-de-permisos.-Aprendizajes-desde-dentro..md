@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reformar el sistema de permisos. Aprendizajes desde dentro."
-date: 2026-02-20
+date: 2026-02-18
 ---
 
 En 2025 se aprobó la ley de permisos, una de las reformas más relevantes a los procesos de inversión de las últimas décadas.
