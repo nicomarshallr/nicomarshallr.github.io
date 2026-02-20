@@ -40,7 +40,7 @@ A ese desafío lo llamamos el “mientras tanto”. En cada presentación del pr
 
 En términos prácticos, destinamos un equipo a ejecutar mesas regionales “pro inversión”. En ellas reunimos a desarrolladores de proyectos, autoridades regionales y autoridades nacionales en una misma instancia de trabajo. Analizamos y destrabamos los nudos críticos de más de 250 proyectos de inversión; presentamos nuevas medidas de gestión; recogimos inquietudes y propuestas; y pusimos a prueba los diseños de la futura reforma al sistema de permisos.
 
-Estos espacios se transformaron en instancias de encuentro entre usuarios y administradores del sistema. Contaron con la participación de autoridades del nivel central —incluido el Presidente de la República—, lo que les otorgó relevancia institucional y visibilidad regional. Asimismo, propiciamos espacios de diálogo directo entre autoridades e inversionistas, generando empatía respecto de los problemas concretos que enfrentan los proyectos.
+Estos espacios se transformaron en instancias de encuentro entre usuarios y administradores del sistema. Contaron con la participación de autoridades del nivel central (incluido el Presidente de la República), lo que les otorgó relevancia institucional y visibilidad regional. Asimismo, propiciamos espacios de diálogo directo entre autoridades e inversionistas, generando empatía respecto de los problemas concretos que enfrentan los proyectos.
 
 Finalmente, invitamos a gremios empresariales a sumarse a este esfuerzo. Ellos habían sido algunos de los voceros más incisivos del “mientras tanto”. Incorporarlos no solo enriqueció el proceso, sino que también permitió validar la pertinencia y efectividad de nuestras acciones de corto plazo.
 
@@ -52,7 +52,7 @@ Las mesas regionales “pro inversión” no solo destrabaron proyectos. Generar
 
 Tempranamente me sorprendió la rapidez con que surgieron en la opinión pública múltiples “voces” proponiendo soluciones al problema de los permisos. Nos tomó tiempo posicionar nuestra aproximación y explicar con claridad los fundamentos de nuestra propuesta. Desde el diseño de la política, pasando por la discusión parlamentaria y hasta su implementación, destinamos mucho tiempo a dialogar y convencer.
 
-Uno de los mensajes centrales que intentamos transmitir fue que la complejidad del desafío no admitía una solución única. Se requería un conjunto coherente de medidas que se complementaran entre sí. Sin embargo, ese mensaje —más estructural que eslogan— resultó poco atractivo para medios que, comprensiblemente, prefieren ideas simples y fácilmente comunicables.
+Uno de los mensajes centrales que intentamos transmitir fue que la complejidad del desafío no admitía una solución única. Se requería un conjunto coherente de medidas que se complementaran entre sí. Sin embargo, ese mensaje (más estructural que eslogan) resultó poco atractivo para medios que, comprensiblemente, prefieren ideas simples y fácilmente comunicables.
 
 Recuerdo conversaciones con el equipo de comunicaciones después de revisar los análisis en radio o prensa que describían nuestro proyecto de manera inexacta o confusa. Más de una vez tuvimos que reaccionar frente a actores que lograban instalar soluciones fáciles de explicar, pero que, desde nuestra perspectiva, eran equivocadas.
 
