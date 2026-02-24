@@ -70,11 +70,11 @@ Finalmente logramos instalar la pertinencia de la ley que presentamos. Hoy exist
 
 No siempre lo conseguimos. En algunos casos tuvimos que ceder y en otros simplemente perder. Puedo nombrar dos de ellos:
 
-1.El nuevo servicio público. La creación de un nuevo servicio público fue uno de los puntos más controvertidos. Nuestra convicción era que, sin una institucionalidad especializada, con foco técnico y cierta autonomía respecto de los ciclos políticos, la reducción agresiva de los tiempos de tramitación sería difícil de sostener.
+*(1)El nuevo servicio público.* La creación de un nuevo servicio público fue uno de los puntos más controvertidos. Nuestra convicción era que, sin una institucionalidad especializada, con foco técnico y cierta autonomía respecto de los ciclos políticos, la reducción agresiva de los tiempos de tramitación sería difícil de sostener.
 
 Sin embargo, la propuesta fue interpretada por algunos sectores como expansión innecesaria del Estado. El debate dejó de ser técnico y se trasladó al terreno político: tamaño del aparato público, gasto fiscal y desconfianza hacia nuevas estructuras administrativas. Para evitar que la reforma quedara entrampada, debimos reformular aspectos sustantivos. Nuestro servicio se convirtió en una oficina con cierta independencia pero dentro del Ministerio de Economía. 
 
-2.El concepto “permisología”. Hablar de “permisología” instaló la idea de que el problema eran los permisos en sí mismos. Esta perspectiva desplaza la discusión desde cómo mejorar la regulación hacia cómo reducirla.
+*(2) El concepto “permisología”*. Hablar de “permisología” instaló la idea de que el problema eran los permisos en sí mismos. Esta perspectiva desplaza la discusión desde cómo mejorar la regulación hacia cómo reducirla.**
 
 Nuestra posición fue distinta desde el inicio. Los permisos son instrumentos mediante los cuales el Estado protege bienes públicos que la sociedad ha definido como relevantes. El problema no era su existencia, sino su funcionamiento.
 
