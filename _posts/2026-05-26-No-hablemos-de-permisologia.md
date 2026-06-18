@@ -36,7 +36,7 @@ Como hemos revisado, la complejidad de materializar proyectos de inversión exig
 
 El desafío de Chile no es simplemente destrabar proyectos. Es reconstruir la capacidad del Estado de ordenar el desarrollo. Porque cuando las leyes pierden coherencia, la judicialización reemplaza la evaluación y la desconfianza se vuelve estructural, ningún fast track alcanza.
 
-Publicado en Pulso La Tercera[Acá]
+Publicado en Pulso La Tercera [Acá]
 
 
 [Acá]: https://www.latercera.com/opinion/noticia/no-hablemos-de-permisologia-la-columna-de-nicolas-marshall/
